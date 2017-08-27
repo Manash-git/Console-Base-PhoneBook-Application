@@ -2,8 +2,7 @@
 
 ## About ::
 
-Personal information that are first name, last name and phone number, are asked while adding a record into the Phonebook. These records can then be modified, listed, searched for and removed.
-We have used many functions in this mini project. These functions are easy to understand as their name only signifies their respective operations.
+Personal information that are first name, last name and phone number, are asked while adding a record into the Phonebook. These records can then be modified, listed, searched for and removed.I have used many functions in this mini project. These functions are easy to understand as their name only signifies their respective operations.
 
 ## Functions Used ::
 
